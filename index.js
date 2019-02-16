@@ -26,4 +26,4 @@ function dec(n) {
 // return parseInt(n)
 // }
 
-parseInt('2.2222', 10)
+return parseInt('2.2222', 10)
