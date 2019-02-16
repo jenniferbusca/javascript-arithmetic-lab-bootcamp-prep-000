@@ -16,7 +16,7 @@ function divide(a,b) {
 
 number = 10 
 function inc(n) {
-  n += 5
+  n += 1
 }
 
 
